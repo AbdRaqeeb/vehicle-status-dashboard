@@ -1,0 +1,11 @@
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const GET_VEHICLES = 'GET_VEHICLES';
+export const GET_VEHICLE = 'GET_VEHICLE';
+export const VEHICLE_ERROR = 'VEHICLE_ERROR';
+export const CLEAR_ERRORS = 'CLEAR_ERRORS';
+export const LOGOUT = 'LOGOUT';
+export const SET_LOADING = 'SET_LOADING';
